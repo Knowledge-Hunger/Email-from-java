@@ -1,0 +1,106 @@
+
+/////////////////////////////////// - This is test output - ////////////////////////////////////////////
+
+
+
+----------SAFARI------------
+
+
+
+-----------------------------------------------------------------------------
+
+in....java.util.TreeMap$ValueIterator@5ea434c8
+org.openqa.selenium.WebDriverException: SafariDriver requires Safari 10 running on OSX El Capitan or greater.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-13HAHCP', ip: '192.168.20.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: SafariDriver
+	at org.openqa.selenium.safari.SafariDriver.getExecutor(SafariDriver.java:66)
+	at org.openqa.selenium.safari.SafariDriver.<init>(SafariDriver.java:60)
+	at org.openqa.selenium.safari.SafariDriver.<init>(SafariDriver.java:40)
+	at FirstLook_TB.firstLook_TB_Safari(FirstLook_TB.java:1359)
+	at ChromeTest.main(ChromeTest.java:70)
+
+
+-----------------------------------------------------------------------------
+
+in....java.util.TreeMap$ValueIterator@5ea434c8
+org.openqa.selenium.WebDriverException: SafariDriver requires Safari 10 running on OSX El Capitan or greater.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-13HAHCP', ip: '192.168.20.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: SafariDriver
+	at org.openqa.selenium.safari.SafariDriver.getExecutor(SafariDriver.java:66)
+	at org.openqa.selenium.safari.SafariDriver.<init>(SafariDriver.java:60)
+	at org.openqa.selenium.safari.SafariDriver.<init>(SafariDriver.java:40)
+	at FirstLook_TB.firstLook_TB_Safari(FirstLook_TB.java:1359)
+	at ChromeTest.main(ChromeTest.java:70)
+
+
+-----------------------------------------------------------------------------
+
+in....java.util.TreeMap$ValueIterator@5ea434c8
+org.openqa.selenium.WebDriverException: SafariDriver requires Safari 10 running on OSX El Capitan or greater.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-13HAHCP', ip: '192.168.20.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: SafariDriver
+	at org.openqa.selenium.safari.SafariDriver.getExecutor(SafariDriver.java:66)
+	at org.openqa.selenium.safari.SafariDriver.<init>(SafariDriver.java:60)
+	at org.openqa.selenium.safari.SafariDriver.<init>(SafariDriver.java:40)
+	at FirstLook_TB.firstLook_TB_Safari(FirstLook_TB.java:1359)
+	at ChromeTest.main(ChromeTest.java:70)
+
+
+-----------------------------------------------------------------------------
+
+in....java.util.TreeMap$ValueIterator@5ea434c8
+org.openqa.selenium.WebDriverException: SafariDriver requires Safari 10 running on OSX El Capitan or greater.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-13HAHCP', ip: '192.168.20.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: SafariDriver
+	at org.openqa.selenium.safari.SafariDriver.getExecutor(SafariDriver.java:66)
+	at org.openqa.selenium.safari.SafariDriver.<init>(SafariDriver.java:60)
+	at org.openqa.selenium.safari.SafariDriver.<init>(SafariDriver.java:40)
+	at FirstLook_TB.firstLook_TB_Safari(FirstLook_TB.java:1359)
+	at ChromeTest.main(ChromeTest.java:70)
+
+
+-----------------------------------------------------------------------------
+
+in....java.util.TreeMap$ValueIterator@5ea434c8
+org.openqa.selenium.WebDriverException: SafariDriver requires Safari 10 running on OSX El Capitan or greater.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-13HAHCP', ip: '192.168.20.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: SafariDriver
+	at org.openqa.selenium.safari.SafariDriver.getExecutor(SafariDriver.java:66)
+	at org.openqa.selenium.safari.SafariDriver.<init>(SafariDriver.java:60)
+	at org.openqa.selenium.safari.SafariDriver.<init>(SafariDriver.java:40)
+	at FirstLook_TB.firstLook_TB_Safari(FirstLook_TB.java:1359)
+	at ChromeTest.main(ChromeTest.java:70)
+
+
+-----------------------------------------------------------------------------
+
+in....java.util.TreeMap$ValueIterator@5ea434c8
+org.openqa.selenium.WebDriverException: SafariDriver requires Safari 10 running on OSX El Capitan or greater.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-13HAHCP', ip: '192.168.20.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: SafariDriver
+	at org.openqa.selenium.safari.SafariDriver.getExecutor(SafariDriver.java:66)
+	at org.openqa.selenium.safari.SafariDriver.<init>(SafariDriver.java:60)
+	at org.openqa.selenium.safari.SafariDriver.<init>(SafariDriver.java:40)
+	at FirstLook_TB.firstLook_TB_Safari(FirstLook_TB.java:1359)
+	at ChromeTest.main(ChromeTest.java:70)
+
+
+-----------------------------------------------------------------------------
+
+in....java.util.TreeMap$ValueIterator@5ea434c8
+org.openqa.selenium.WebDriverException: SafariDriver requires Safari 10 running on OSX El Capitan or greater.
+Build info: version: 'unknown', revision: 'unknown', time: 'unknown'
+System info: host: 'DESKTOP-13HAHCP', ip: '192.168.20.144', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_131'
+Driver info: driver.version: SafariDriver
+	at org.openqa.selenium.safari.SafariDriver.getExecutor(SafariDriver.java:66)
+	at org.openqa.selenium.safari.SafariDriver.<init>(SafariDriver.java:60)
+	at org.openqa.selenium.safari.SafariDriver.<init>(SafariDriver.java:40)
+	at FirstLook_TB.firstLook_TB_Safari(FirstLook_TB.java:1359)
+	at ChromeTest.main(ChromeTest.java:70)
+
